@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\bin\Debug\Database.mdf
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\bin\Debug\Database_log.ldf
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\bin\Debug\ProxyDatabase.exe.config
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\bin\Debug\ProxyDatabase.exe
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\bin\Debug\ProxyDatabase.pdb
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\obj\Debug\ProxyDatabase.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\obj\Debug\ProxyDatabase.Form1.resources
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\obj\Debug\ProxyDatabase.Properties.Resources.resources
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\obj\Debug\ProxyDatabase.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\obj\Debug\ProxyDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\obj\Debug\ProxyDatabase.exe
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\obj\Debug\ProxyDatabase.pdb
+C:\Users\User\source\repos\ProxyDatabase\ProxyDatabase\obj\Debug\ProxyDatabase.Form2.resources
